@@ -1,6 +1,6 @@
 <?php
 
-$server = "localhost";
+$server = "afwan.database.windows.net";
 $user = "root";
 $password = "";
 $nama_database = "bimbingan_mhs";
