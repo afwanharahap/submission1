@@ -1,8 +1,8 @@
 <?php
 
-$server = "afwan.database.windows.net";
-$user = "root";
-$password = "";
+$server = "afwandb.database.windows.net";
+$user = "afwan";
+$password = "Harahap_puny4";
 $nama_database = "bimbingan_mhs";
 
 $db = mysqli_connect($server, $user, $password, $nama_database);
