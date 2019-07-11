@@ -1,5 +1,4 @@
 <?php
-
 $server = "afwandb.database.windows.net";
 $user = "afwan";
 $password = "Harahap_puny4";
