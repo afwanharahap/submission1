@@ -17,13 +17,5 @@
 			<li><a href="list-mahasiswa.php">Pendaftar</a></li>
 		</ul>
 	</nav>
-	
-	
-	<?php if(isset($_GET['status'])): ?>
-	<p>
-		
-	</p>
-	<?php endif; ?>
-	
 	</body>
 </html>
